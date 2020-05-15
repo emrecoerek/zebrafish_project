@@ -22,7 +22,7 @@ height = "calc(100vh - 70px)"
   align = "right"
 
   #overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/capture.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0  # Darken the image. Value in range 0-1.
   
 [[item]]

@@ -86,7 +86,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Klingelbergstrasse 70", city = "Basel", region = "Basel-Stadt", postcode = "4056", country = "Switzerland", country_code = "CH"}
+address = {street = "Klingelbergstrasse 50", city = "Basel", region = "Basel-Stadt", postcode = "4056", country = "Switzerland", country_code = "CH"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -117,7 +117,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "logo.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""

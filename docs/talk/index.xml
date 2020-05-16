@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Zebrafish synchrotron X-ray computed micro-tomography</title>
-    <link>https://emrecoerek.github.io/zebrafish_project/talk/</link>
-      <atom:link href="https://emrecoerek.github.io/zebrafish_project/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/zebrafish_project/talk/</link>
+      <atom:link href="/zebrafish_project/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Prof. Dr. Jörg Huwyler &amp; Dr. Emre Cörek, Pharmaceutical Technology, University of Basel</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://emrecoerek.github.io/zebrafish_project/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/zebrafish_project/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://emrecoerek.github.io/zebrafish_project/talk/</link>
+      <link>/zebrafish_project/talk/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://emrecoerek.github.io/zebrafish_project/talk/example/</link>
+      <link>/zebrafish_project/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://emrecoerek.github.io/zebrafish_project/talk/example/</guid>
+      <guid>/zebrafish_project/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

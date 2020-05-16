@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zebrafish synchrotron X-ray computed micro-tomography</title>
+    <title>Welcome</title>
     <link>https://emrecoerek.github.io/zebrafish_project/</link>
       <atom:link href="https://emrecoerek.github.io/zebrafish_project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Zebrafish synchrotron X-ray computed micro-tomography</description>
+    <description>Welcome</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Prof. Dr. Jörg Huwyler &amp; Dr. Emre Cörek, Pharmaceutical Technology, University of Basel</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://emrecoerek.github.io/zebrafish_project/img/logo.jpg</url>
-      <title>Zebrafish synchrotron X-ray computed micro-tomography</title>
+      <title>Welcome</title>
       <link>https://emrecoerek.github.io/zebrafish_project/</link>
     </image>
     

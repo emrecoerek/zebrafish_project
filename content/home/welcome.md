@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Welcome"
-subtitle = "Provided to you by the group of Pharmaceutical Technology of the University of Basel"
+title = "Zebrafish synchrotron X-ray computed micro-tomography"
+subtitle = "Provided to you by the group of Pharmaceutical Technology, University of Basel, Switzerland"
 
 height = "800px"
 

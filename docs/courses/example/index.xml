@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview | Zebrafish synchrotron X-ray computed micro-tomography</title>
+    <title>Overview | Welcome</title>
     <link>https://emrecoerek.github.io/zebrafish_project/courses/example/</link>
       <atom:link href="https://emrecoerek.github.io/zebrafish_project/courses/example/index.xml" rel="self" type="application/rss+xml" />
     <description>Overview</description>

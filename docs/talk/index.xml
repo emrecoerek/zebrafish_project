@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Welcome</title>
-    <link>https://emrecoerek.github.io/zebrafish_project/talk/</link>
-      <atom:link href="https://emrecoerek.github.io/zebrafish_project/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://loving-fermat-b31efd.netlify.app/talk/</link>
+      <atom:link href="https://loving-fermat-b31efd.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Prof. Dr. Jörg Huwyler &amp; Dr. Emre Cörek, Pharmaceutical Technology, University of Basel</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://emrecoerek.github.io/zebrafish_project/img/logo.jpg</url>
+      <url>https://loving-fermat-b31efd.netlify.app/img/logo.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://emrecoerek.github.io/zebrafish_project/talk/</link>
+      <link>https://loving-fermat-b31efd.netlify.app/talk/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://emrecoerek.github.io/zebrafish_project/talk/example/</link>
+      <link>https://loving-fermat-b31efd.netlify.app/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://emrecoerek.github.io/zebrafish_project/talk/example/</guid>
+      <guid>https://loving-fermat-b31efd.netlify.app/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

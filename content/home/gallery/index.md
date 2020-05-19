@@ -23,6 +23,7 @@ subtitle = ""
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
+  text_color_light = true
 +++
 
 {{< gallery >}}

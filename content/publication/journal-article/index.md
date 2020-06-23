@@ -1,8 +1,7 @@
 ---
 abstract: Metal‐based nanoparticles are clinically used for diagnostic and therapeutic applications. After parenteral administration, they will distribute throughout different organs. Quantification of their distribution within tissues in the 3D space, however, remains a challenge owing to the small particle diameter. In this study, synchrotron radiation‐based hard X‐ray tomography (SRμCT) in absorption and phase contrast modes is evaluated for the localization of superparamagnetic iron oxide nanoparticles (SPIONs) in soft tissues based on their electron density and X‐ray attenuation. Biodistribution of SPIONs is studied using zebrafish embryos as a vertebrate screening model. This label‐free approach gives rise to an isotropic, 3D, direct space visualization of the entire 2.5 mm‐long animal with a spatial resolution of around 2 µm. High resolution image stacks are available on a dedicated internet page https://zebrafish.pharma‐te.ch. X‐ray tomography is combined with physico‐chemical characterization and cellular uptake studies to confirm the safety and effectiveness of protective SPION coatings. It is demonstrated that SRμCT provides unprecedented insights into the zebrafish embryo anatomy and tissue distribution of label‐free metal oxide nanoparticles.
 authors:
-- admin
-- Griffin Rodgers, Stefan Siegrist, Tomaz Einfalt, Pascal Detampel, Christian M. Schlepütz, Sandro Sieber, Pascal Fluder, Georg Schulz, Harald Unterweger, Christoph Alexiou, Bert Müller, Maxim Puchkov, Jörg Huwyler
+- Emre Cörek, Griffin Rodgers, Stefan Siegrist, Tomaz Einfalt, Pascal Detampel, Christian M. Schlepütz, Sandro Sieber, Pascal Fluder, Georg Schulz, Harald Unterweger, Christoph Alexiou, Bert Müller, Maxim Puchkov, Jörg Huwyler
 date: "2020-06-22T00:00:00Z"
 doi: "10.1002/smll.202000746"
 featured: true

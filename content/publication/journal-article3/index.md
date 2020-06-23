@@ -1,8 +1,7 @@
 ---
 abstract: In the present study, we assessed, if the novel dual phosphatidylinositol 3-kinase (PI3K)/mammalian target of rapamycin (mTOR) inhibitor NVP-BEZ235 radiosensitizes triple negative (TN) MDA-MB-231 and estrogen receptor (ER) positive MCF-7 cells to ionizing radiation under various oxygen conditions, simulating different microenvironments as occurring in the majority of breast cancers (BCs). Irradiation (IR) of BC cells cultivated in hypoxic conditions revealed increased radioresistance compared to normoxic controls. Treatment with NVP-BEZ235 completely circumvented this hypoxia-induced effects and radiosensitized normoxic, reoxygenated, and hypoxic cells to similar extents. Furthermore, NVP-BEZ235 treatment suppressed HIF-1α expression and PI3K/mTOR signaling, induced autophagy, and caused protracted DNA damage repair in both cell lines in all tested oxygen conditions. Moreover, after incubation with NVP-BEZ235, MCF-7 cells revealed depletion of phospho-AKT and considerable signs of apoptosis, which were significantly enhanced by radiation. Our findings clearly demonstrate that NVP-BEZ235 has a clinical relevant potential as a radiosensitizer in BC treatment.
 authors:
-- Sebastian Kuger
-- Emre Çörek, Bülent Polat, Ulrike Kämmerer, Michael Flentje, Cholpon S. Djuzenova
+- Sebastian Kuger, Emre Cörek, Bülent Polat, Ulrike Kämmerer, Michael Flentje, Cholpon S. Djuzenova
 date: "2014-03-16T00:00:00Z"
 doi: "10.4137/BCBCR.S13693"
 featured: false

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Emre Çörek, PhD</title>
-    <link>https://loving-fermat-b31efd.netlify.app/courses/</link>
-      <atom:link href="https://loving-fermat-b31efd.netlify.app/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>/courses/</link>
+      <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 by Emre Çörek. All rights reserved. The content of this webpage or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the publisher.</copyright><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://loving-fermat-b31efd.netlify.app/img/logo_large.png</url>
+      <url>/img/logo_large.png</url>
       <title>Courses</title>
-      <link>https://loving-fermat-b31efd.netlify.app/courses/</link>
+      <link>/courses/</link>
     </image>
     
   </channel>

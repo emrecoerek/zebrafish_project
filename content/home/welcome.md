@@ -55,7 +55,7 @@ height = "1000px"
 
 Also visit my **[LinkedIn profile](https://ch.linkedin.com/in/emrecoerek)**.
 
-Below you can find latest research results from my [SMALL paper](https://doi.org/10.1002/smll.202000746).
+Below you can find some research results from my [SMALL paper](https://doi.org/10.1002/smll.202000746).
 
 Don't forget also to watch the [animation](#video) which shows a short clip from my findings.
 

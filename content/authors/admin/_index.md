@@ -37,7 +37,7 @@ social:
   icon_pack: fab
   link: https://github.com/emrecoerek
 superuser: true
-title: Emre Çörek
+title: Dr. Emre Çörek
 user_groups:
 - Researchers
 - Visitors

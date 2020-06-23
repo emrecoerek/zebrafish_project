@@ -57,6 +57,3 @@ height = "800px"
 - [**Pharmaceutical Technology** (Research group webpage)](https://pharma.unibas.ch/de/research/research-groups/pharmaceutical-technology-2253/)
 
 This work was a part of the PhD thesis of **[Dr. Emre Cörek](https://ch.linkedin.com/in/emrecoerek)**
-
-
-

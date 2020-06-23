@@ -24,6 +24,6 @@ subtitle = ""
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
 +++
-<div style="position: relative; padding-bottom: 80%; height: 0; overflow: hidden;">
-  <iframe src="img/zebra_video.mp4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video" style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden;">
+  <iframe src="img/zebra_video.mp4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="zebrafish 3d volume" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
  </div>

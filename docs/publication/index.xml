@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Emre Çörek, PhD</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://loving-fermat-b31efd.netlify.app/publication/</link>
+      <atom:link href="https://loving-fermat-b31efd.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 by Emre Çörek. All rights reserved. The content of this webpage or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the publisher.</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/logo_large.png</url>
+      <url>https://loving-fermat-b31efd.netlify.app/img/logo_large.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://loving-fermat-b31efd.netlify.app/publication/</link>
     </image>
     
     <item>
       <title>Shedding Light on Metal‐Based Nanoparticles in Zebrafish by Computed Tomography with Micrometer Resolution</title>
-      <link>/publication/journal-article/</link>
+      <link>https://loving-fermat-b31efd.netlify.app/publication/journal-article/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>https://loving-fermat-b31efd.netlify.app/publication/journal-article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preclinical hazard evaluation strategy for nanomedicines</title>
-      <link>/publication/journal-article2/</link>
+      <link>https://loving-fermat-b31efd.netlify.app/publication/journal-article2/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article2/</guid>
+      <guid>https://loving-fermat-b31efd.netlify.app/publication/journal-article2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novel PI3K and mTOR Inhibitor NVP-BEZ235 Radiosensitizes Breast Cancer Cell Lines under Normoxic and Hypoxic Conditions</title>
-      <link>/publication/journal-article3/</link>
+      <link>https://loving-fermat-b31efd.netlify.app/publication/journal-article3/</link>
       <pubDate>Sun, 16 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article3/</guid>
+      <guid>https://loving-fermat-b31efd.netlify.app/publication/journal-article3/</guid>
       <description></description>
     </item>
     

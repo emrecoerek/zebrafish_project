@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 4  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -24,12 +24,12 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+  #[content.filters]
+   # tag = ""
+   # category = ""
+   # publication_type = ""
+   # author = ""
+   # exclude_featured = true
   
 [design]
   # Toggle between the various page layout types.
@@ -38,6 +38,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
+
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -53,11 +54,11 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+    image = "oxide.jpg"  # Name of image in `static/img/`.
+    image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+    text_color_light = true  
   
 [advanced]
  # Custom CSS. 
@@ -66,7 +67,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}

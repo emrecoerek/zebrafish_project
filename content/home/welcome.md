@@ -8,10 +8,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Zebrafish synchrotron X-ray computed micro-tomography"
-subtitle = "Provided to you by the group of Pharmaceutical Technology, University of Basel, Switzerland"
+title = "Welcome to my personal webpage"
+subtitle = ""
 
-height = "800px"
+height = "1000px"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -52,8 +52,11 @@ height = "800px"
  css_class = ""
 +++
 
-**Synchrotron X-ray computed micro-tomography results of zebrafish embryos** from the *Pharmaceutical Technology* group of the University of Basel.
 
-- [**Pharmaceutical Technology** (Research group webpage)](https://pharma.unibas.ch/de/research/research-groups/pharmaceutical-technology-2253/)
+Also visit my **[LinkedIn profile](https://ch.linkedin.com/in/emrecoerek)**.
 
-This work was a part of the PhD thesis of **[Dr. Emre Cörek](https://ch.linkedin.com/in/emrecoerek)**
+Below the page you can find latest resarch results from my [SMALL paper](https://doi.org/10.1002/smll.202000746).
+
+Don't forget also to watch the [animation](#video) which shows a short clip from my findings.
+
+Further details are on the [SPECIAL WEBPAGE](https://188.68.41.189/zebrafish/index.html) which was created from my PhD supervisor [Prof. Dr. Jörg Huwyler](https://pharma.unibas.ch/de/personen/joerg-huwyler-1475/)

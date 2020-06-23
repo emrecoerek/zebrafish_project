@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Welcome</title>
-    <link>https://loving-fermat-b31efd.netlify.app/tags/</link>
-      <atom:link href="https://loving-fermat-b31efd.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Emre Çörek, PhD</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Prof. Dr. Jörg Huwyler &amp; Dr. Emre Cörek, Pharmaceutical Technology, University of Basel</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 by Emre Çörek. All rights reserved. The content of this webpage or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the publisher.</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://loving-fermat-b31efd.netlify.app/img/logo.jpg</url>
+      <url>/img/logo_large.png</url>
       <title>Tags</title>
-      <link>https://loving-fermat-b31efd.netlify.app/tags/</link>
+      <link>/tags/</link>
     </image>
     
   </channel>

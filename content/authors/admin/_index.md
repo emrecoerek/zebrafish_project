@@ -4,20 +4,21 @@ authors:
 bio: My research interests include nanoparticles, drug delivery, imaging, and toxicology.
 education:
   courses:
-  - course: PhD in Pharmaceutical Sciences
-    institution: University of Basel
-    year: 2020
-  - course: MSc in Toxicology
-    institution: University of Basel
+  - course: Ph.D. in Pharmaceutical Sciences
+    institution: University of Basel, Switzerland
+    year: May, 2020
+  - course: M.Sc. in Toxicology
+    institution: University of Basel, Switzerland
     year: 2015
-  - course: BSc in Biology
-    institution: Julius-Maximilians-Universität Würzburg
+  - course: B.Sc. in Biology
+    institution: Julius-Maximilians-University of Wuerzburg, Germany
     year: 2013
 email: "emre.coerek@unibas.ch"
 interests:
 - Toxicology
 - Nanoparticles
 - Imaging
+- Cancer Biology
 organizations:
 - name: ""
   url: ""
@@ -36,7 +37,7 @@ social:
   icon_pack: fab
   link: https://github.com/emrecoerek
 superuser: true
-title: Emre Cörek
+title: Emre Çörek
 user_groups:
 - Researchers
 - Visitors
@@ -46,5 +47,5 @@ Emre Cörek graduated from Julius-Maximilians-University of Wuerzburg in Germany
 
 In July 2015 he graduated from the University of Basel in Switzerland with a Master`s degree in Toxicology. His Master's thesis he accomplished for 10 months at Novartis AG in Basel in Preclinical safety about the renal biomarker Kidney injury molecule-1 (KIM-1). The title of his thesis was “Spatial and temporal patterns of KIM-1 induction in toxic kidney injury in rats”.
 
-In June 2016, Emre Cörek joined the research group of Prof. Dr. J. Huwyler (Pharmaceutical Technology) as a PhD-candidate. His research is focused on nanoparticles for drug delivery and imaging. He is also involved in the EU Horizon 2020 project NanoREG II for development and implementation of nanoparticle grouping and Safe-by-design approaches within regulatory frameworks together with the Swiss Centre for Applied Human Toxicology (SCAHT). 
-In May 2020 he finished his PhD (Dr. phil. des.) and is currently working on his own projects.
+In June 2016, Emre Cörek joined the research group of Prof. Dr. J. Huwyler (Pharmaceutical Technology) as a PhD candidate. His research was focused on nanoparticles for drug delivery and imaging/theranostics. He was also involved in the EU Horizon 2020 project NanoREG II for development and implementation of nanoparticle grouping and Safe-by-design approaches within regulatory frameworks together with the Swiss Centre for Applied Human Toxicology (SCAHT). 
+In May 2020 he finished his Ph.D. (Dr. phil. des.) and is currently working on his own projects.

@@ -41,7 +41,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+#org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -81,43 +81,43 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "coerekemre@gmail.com"
-phone = ""
+email = "emre.coerek@unibas.ch"
+#phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Klingelbergstrasse 50", city = "Basel", region = "Basel-Stadt", postcode = "4056", country = "Switzerland", country_code = "CH"}
+#address = {street = "Klingelbergstrasse 50", city = "Basel", region = "Basel-Stadt", postcode = "4056", country = "Switzerland", country_code = "CH"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "47.563892", longitude = "7.580303"}
+#coordinates = {latitude = "47.563892", longitude = "7.580303"}
 
 # Directions for visitors to locate you.
-directions = ""
+#directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = []
+#office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+#appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
+#contact_links = [
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+  #]
 
 ############################
 ## Social
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "logo.jpg"
+sharing_image = "logo_large.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
@@ -243,7 +243,7 @@ plugins_js  = []
     app_id = ""
     api_key = ""
     index_name = ""
-    show_logo = false
+    show_logo = true
 
 ############################
 ## Maps

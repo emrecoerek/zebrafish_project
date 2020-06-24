@@ -12,7 +12,7 @@ weight = 5  # Order that this section will appear.
   height = "calc(100vh - 70px)"
   
 title = "Animation"
-subtitle = ""
+subtitle = "provided to you by the Pharmaceutical Technology group of the University of Basel, Switzerland"
 
 [design.background]
 

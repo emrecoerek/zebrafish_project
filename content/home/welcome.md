@@ -9,13 +9,13 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Welcome to my personal webpage"
-subtitle = ""
+subtitle = "<sub>Also visit my **[LinkedIn profile](https://ch.linkedin.com/in/emrecoerek)**.</sub>"
 
 height = "1000px"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,7 +42,7 @@ height = "1000px"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["80px", "0", "80px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -53,10 +53,14 @@ height = "1000px"
 +++
 
 
-Also visit my **[LinkedIn profile](https://ch.linkedin.com/in/emrecoerek)**.
 
-Below you can find some research results from my [SMALL paper](https://doi.org/10.1002/smll.202000746).
 
-Don't forget also to watch the [animation](#video) which shows a short clip from my findings.
+<sub>Below you can find some research results from my [SMALL paper](https://doi.org/10.1002/smll.202000746).</sub>
 
-Further details are on the [SPECIAL WEBPAGE](https://188.68.41.189/zebrafish/index.html) which was created from my PhD supervisor [Prof. Dr. Jörg Huwyler](https://pharma.unibas.ch/de/personen/joerg-huwyler-1475/)
+
+Further details are on the **[SPECIAL WEBPAGE](https://188.68.41.189/zebrafish/index.html)** which was created from my PhD supervisor [Prof. Dr. Jörg Huwyler](https://pharma.unibas.ch/de/personen/joerg-huwyler-1475/).
+
+
+<sub>Don't forget also to watch the [animation](#video) which shows a short clip from my findings.</sub>
+
+<sub>All results, images, and animations were created together with the [Pharmaceutical Technology group](https://pharma.unibas.ch/de/research/research-groups/pharmaceutical-technology-2253/) during my PhD thesis.</sub>

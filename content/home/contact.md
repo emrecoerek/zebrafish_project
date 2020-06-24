@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact"
-subtitle = "you can also use my LinkedIn profile to get in touch with me"
+subtitle = "<sub>You can also use my **[LinkedIn profile](https://ch.linkedin.com/in/emrecoerek)** to get in touch with me.</sub>"
 
 # Automatically link email and phone?
 autolink = true

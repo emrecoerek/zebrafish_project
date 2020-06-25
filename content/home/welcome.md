@@ -58,7 +58,7 @@ height = "1000px"
 <sub>Below you can find some research results from my [SMALL paper](https://doi.org/10.1002/smll.202000746).</sub>
 
 
-Further details are on the **[SPECIAL WEBPAGE](https://188.68.41.189/zebrafish/index.html)** which was created from my PhD supervisor [Prof. Dr. Jörg Huwyler](https://pharma.unibas.ch/de/personen/joerg-huwyler-1475/).
+Further details are on the **[SPECIAL WEBPAGE](http://zebrafish.pharma-te.ch/)** which was created from my PhD supervisor [Prof. Dr. Jörg Huwyler](https://pharma.unibas.ch/de/personen/joerg-huwyler-1475/).
 
 
 <sub>Don't forget also to watch the [animation](#video) which shows a short clip from my findings.</sub>

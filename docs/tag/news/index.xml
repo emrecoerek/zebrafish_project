@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news | Emre Çörek, PhD</title>
+    <link>/tag/news/</link>
+      <atom:link href="/tag/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>news</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 by Emre Çörek. All rights reserved. The content of this webpage or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the publisher.</copyright><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/share.jpg</url>
+      <title>news</title>
+      <link>/tag/news/</link>
+    </image>
+    
+    <item>
+      <title>News article in the University of Basel webpage about my Small publication</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/getting-started/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

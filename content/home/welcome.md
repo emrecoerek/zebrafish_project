@@ -61,6 +61,4 @@ height = "1000px"
 Further details are on the **[SPECIAL WEBPAGE](http://zebrafish.pharma-te.ch/)** which was created from my PhD supervisor [Prof. Dr. Jörg Huwyler](https://pharma.unibas.ch/de/personen/joerg-huwyler-1475/).
 
 
-<sub>Don't forget also to watch the [animation](#video) which shows a short clip from my findings.</sub>
-
 <sub>All results, images, and animations were created together with the [Pharmaceutical Technology group](https://pharma.unibas.ch/de/research/research-groups/pharmaceutical-technology-2253/) during my PhD thesis.</sub>

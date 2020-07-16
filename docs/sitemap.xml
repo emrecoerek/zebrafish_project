@@ -23,12 +23,57 @@
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
+    <loc>/authors/</loc>
+    <lastmod>2020-06-26T10:45:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/basel/</loc>
+    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-05-19T12:47:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/news/</loc>
+    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/news/</loc>
+    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/phd/</loc>
+    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/science/</loc>
+    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2020-06-25T10:35:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/author/university-of-basel/</loc>
+    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2020-06-25T10:35:28+02:00</lastmod>
   </url>
   
@@ -49,11 +94,6 @@
   
   <url>
     <loc>/tag/source-themes/</loc>
-    <lastmod>2020-06-25T10:35:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-06-25T10:35:28+02:00</lastmod>
   </url>
   
@@ -128,41 +168,6 @@
   </url>
   
   <url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-05-19T12:47:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/demo/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2020-05-19T12:47:48+02:00</lastmod>
   </url>
@@ -204,7 +209,7 @@
   
   <url>
     <loc>/author/dr.-emre-corek/</loc>
-    <lastmod>2020-06-23T21:39:44+02:00</lastmod>
+    <lastmod>2020-06-26T10:45:26+02:00</lastmod>
   </url>
   
   <url>

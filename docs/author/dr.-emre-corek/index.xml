@@ -13,59 +13,143 @@
     </image>
     
     <item>
-      <title>News article in the University of Basel webpage about my Small publication</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
-      <description></description>
+      <title>Laborpraxis news article about my Small publication</title>
+      <link>/post/laborpraxisnews/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/laborpraxisnews/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;This is the third news article about my 
+&lt;a href=&#34;https://doi.org/10.1002/smll.202000746&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Small publication&lt;/a&gt; which was published online on 22nd June 2020.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Check out the news article 
+&lt;a href=&#34;https://www.laborpraxis.vogel.de/wie-man-den-weg-von-nanopartikeln-im-koerper-sichtbar-macht-a-949277/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in &lt;strong&gt;German&lt;/strong&gt;&lt;/a&gt; at the webpage of Laborpraxis by clicking directly on the blue link.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-mittels-mikrotomografie-im-phasenkontrastmodus-nahmen-forscher-der-universität-basel-hoch-aufgelöste-dreidimensionale-bilder-von-zebrafisch-embryos-auf-in-denen-die-verteilung-von-nanopartikeln-rot-sichtbar-wird-ebenfalls-rot-und-gut-zu-erkennen-aufgrund-der-hohen-dichte-sind-die-augenlinse-und-die-otolithen-im-innenohr-also-kalksteinchen-des-gleichgewichtsorgans-bild-universität-basel-jan-bolten&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cdn1.vogel.de/unsafe/540x0/smart/images.vogel.de/vogelonline/bdb/1726000/1726021/original.jpg&#34; data-caption=&#34;Mittels Mikrotomografie im Phasenkontrastmodus nahmen Forscher der Universität Basel hoch aufgelöste, dreidimensionale Bilder von Zebrafisch-Embryos auf, in denen die Verteilung von Nanopartikeln (rot) sichtbar wird. Ebenfalls rot und gut zu erkennen aufgrund der hohen Dichte sind die Augenlinse und die Otolithen im Innenohr, also Kalksteinchen des Gleichgewichtsorgans. (Bild: Universität Basel, Jan Bolten).&#34;&gt;
+
+
+  &lt;img src=&#34;https://cdn1.vogel.de/unsafe/540x0/smart/images.vogel.de/vogelonline/bdb/1726000/1726021/original.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Mittels Mikrotomografie im Phasenkontrastmodus nahmen Forscher der Universität Basel hoch aufgelöste, dreidimensionale Bilder von Zebrafisch-Embryos auf, in denen die Verteilung von Nanopartikeln (rot) sichtbar wird. Ebenfalls rot und gut zu erkennen aufgrund der hohen Dichte sind die Augenlinse und die Otolithen im Innenohr, also Kalksteinchen des Gleichgewichtsorgans. (Bild: Universität Basel, Jan Bolten).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
     </item>
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-jupyter lab index.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;---
-title: My post&#39;s title
-date: 2019-09-01
+      <title>MyScience news article about my Small publication</title>
+      <link>/post/mysciencenews/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/mysciencenews/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;This is the first news article about my 
+&lt;a href=&#34;https://doi.org/10.1002/smll.202000746&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Small publication&lt;/a&gt; which was published online on 22nd June 2020.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Check out the news article 
+&lt;a href=&#34;https://www.myscience.ch/en/news/2020/tiny_fish_under_a_giant_camera-2020-unibas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in &lt;strong&gt;English&lt;/strong&gt;&lt;/a&gt;, 
+&lt;a href=&#34;https://www.myscience.ch/de/news/2020/winzige_fische_unter_riesiger_kamera-2020-unibas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in &lt;strong&gt;German&lt;/strong&gt;&lt;/a&gt; or 
+&lt;a href=&#34;https://www.myscience.ch/fr/news/2020/winzige_fische_unter_riesiger_kamera-2020-unibas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in &lt;strong&gt;French&lt;/strong&gt;&lt;/a&gt; at the webpage of myscience.ch by clicking directly on the blue links.&lt;/p&gt;
 
-# Put any other Academic metadata here...
----
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Edit the metadata of your post, using the 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-using-microtomography-in-phase-contrast-mode-researchers-at-the-university-of-basel-succeeded-in-taking-high-resolution-three-dimensional-images-of-zebrafish-embryos-in-which-the-distribution-of-nanoparticles-red-is-visible-also-in-red-and-easy-to-distinguish-because-of-their-high-density-are-the-lens-of-the-eye-and-the-otoliths-in-the-inner-ear--that-is-tiny-pieces-of-calcium-carbonate-in-the-vestibular-system-image-university-of-basel-jan-bolten&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.myscience.ch/news/2020/winzige_fische_unter_riesiger_kamera-2020-unibas/image.jpg&#34; data-caption=&#34;Using microtomography in phase contrast mode, researchers at the University of Basel succeeded in taking high-resolution, three-dimensional images of zebrafish embryos in which the distribution of nanoparticles (red) is visible. Also in red and easy to distinguish because of their high density are the lens of the eye and the otoliths in the inner ear – that is, tiny pieces of calcium carbonate in the vestibular system (Image: University of Basel, Jan Bolten).&#34;&gt;
+
+
+  &lt;img src=&#34;https://www.myscience.ch/news/2020/winzige_fische_unter_riesiger_kamera-2020-unibas/image.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Using microtomography in phase contrast mode, researchers at the University of Basel succeeded in taking high-resolution, three-dimensional images of zebrafish embryos in which the distribution of nanoparticles (red) is visible. Also in red and easy to distinguish because of their high density are the lens of the eye and the otoliths in the inner ear – that is, tiny pieces of calcium carbonate in the vestibular system (Image: University of Basel, Jan Bolten).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>University of Basel news article about my Small publication</title>
+      <link>/post/unibaselnews/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/unibaselnews/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;This is the first news article about my 
+&lt;a href=&#34;https://doi.org/10.1002/smll.202000746&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Small publication&lt;/a&gt; which was published online on 22nd June 2020.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Check out the news article 
+&lt;a href=&#34;https://www.unibas.ch/en/News-Events/News/Uni-Research/Tiny-fish-under-a-giant-camera.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in &lt;strong&gt;English&lt;/strong&gt;&lt;/a&gt; or 
+&lt;a href=&#34;https://www.unibas.ch/de/Aktuell/News/Uni-Research/Winzige-Fische-unter-riesiger-Kamera.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in &lt;strong&gt;German&lt;/strong&gt;&lt;/a&gt; at the webpage of the University of Basel by clicking directly on the blue links.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-using-microtomography-in-phase-contrast-mode-researchers-at-the-university-of-basel-succeeded-in-taking-high-resolution-three-dimensional-images-of-zebrafish-embryos-in-which-the-distribution-of-nanoparticles-red-is-visible-also-in-red-and-easy-to-distinguish-because-of-their-high-density-are-the-lens-of-the-eye-and-the-otoliths-in-the-inner-ear--that-is-tiny-pieces-of-calcium-carbonate-in-the-vestibular-system-image-university-of-basel-jan-bolten&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.unibas.ch/dam/jcr:6401512d-cfa2-44ff-b67a-4e9bbc2a5098/Zebrafisch-ganz_1000x500.jpg&#34; data-caption=&#34;Using microtomography in phase contrast mode, researchers at the University of Basel succeeded in taking high-resolution, three-dimensional images of zebrafish embryos in which the distribution of nanoparticles (red) is visible. Also in red and easy to distinguish because of their high density are the lens of the eye and the otoliths in the inner ear – that is, tiny pieces of calcium carbonate in the vestibular system (Image: University of Basel, Jan Bolten).&#34;&gt;
+
+
+  &lt;img src=&#34;https://www.unibas.ch/dam/jcr:6401512d-cfa2-44ff-b67a-4e9bbc2a5098/Zebrafisch-ganz_1000x500.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Using microtomography in phase contrast mode, researchers at the University of Basel succeeded in taking high-resolution, three-dimensional images of zebrafish embryos in which the distribution of nanoparticles (red) is visible. Also in red and easy to distinguish because of their high density are the lens of the eye and the otoliths in the inner ear – that is, tiny pieces of calcium carbonate in the vestibular system (Image: University of Basel, Jan Bolten).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 </description>
     </item>
     

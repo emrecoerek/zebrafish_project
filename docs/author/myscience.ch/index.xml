@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MyScience.ch | Emre Çörek, PhD</title>
+    <link>/author/myscience.ch/</link>
+      <atom:link href="/author/myscience.ch/index.xml" rel="self" type="application/rss+xml" />
+    <description>MyScience.ch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 by Emre Çörek. All rights reserved. The content of this webpage or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the publisher.</copyright><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/share.jpg</url>
+      <title>MyScience.ch</title>
+      <link>/author/myscience.ch/</link>
+    </image>
+    
+    <item>
+      <title>MyScience news article about my Small publication</title>
+      <link>/post/mysciencenews/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/mysciencenews/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;This is the first news article about my 
+&lt;a href=&#34;https://doi.org/10.1002/smll.202000746&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Small publication&lt;/a&gt; which was published online on 22nd June 2020.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Check out the news article 
+&lt;a href=&#34;https://www.myscience.ch/en/news/2020/tiny_fish_under_a_giant_camera-2020-unibas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in &lt;strong&gt;English&lt;/strong&gt;&lt;/a&gt;, 
+&lt;a href=&#34;https://www.myscience.ch/de/news/2020/winzige_fische_unter_riesiger_kamera-2020-unibas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in &lt;strong&gt;German&lt;/strong&gt;&lt;/a&gt; or 
+&lt;a href=&#34;https://www.myscience.ch/fr/news/2020/winzige_fische_unter_riesiger_kamera-2020-unibas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in &lt;strong&gt;French&lt;/strong&gt;&lt;/a&gt; at the webpage of myscience.ch by clicking directly on the blue links.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-using-microtomography-in-phase-contrast-mode-researchers-at-the-university-of-basel-succeeded-in-taking-high-resolution-three-dimensional-images-of-zebrafish-embryos-in-which-the-distribution-of-nanoparticles-red-is-visible-also-in-red-and-easy-to-distinguish-because-of-their-high-density-are-the-lens-of-the-eye-and-the-otoliths-in-the-inner-ear--that-is-tiny-pieces-of-calcium-carbonate-in-the-vestibular-system-image-university-of-basel-jan-bolten&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.myscience.ch/news/2020/winzige_fische_unter_riesiger_kamera-2020-unibas/image.jpg&#34; data-caption=&#34;Using microtomography in phase contrast mode, researchers at the University of Basel succeeded in taking high-resolution, three-dimensional images of zebrafish embryos in which the distribution of nanoparticles (red) is visible. Also in red and easy to distinguish because of their high density are the lens of the eye and the otoliths in the inner ear – that is, tiny pieces of calcium carbonate in the vestibular system (Image: University of Basel, Jan Bolten).&#34;&gt;
+
+
+  &lt;img src=&#34;https://www.myscience.ch/news/2020/winzige_fische_unter_riesiger_kamera-2020-unibas/image.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Using microtomography in phase contrast mode, researchers at the University of Basel succeeded in taking high-resolution, three-dimensional images of zebrafish embryos in which the distribution of nanoparticles (red) is visible. Also in red and easy to distinguish because of their high density are the lens of the eye and the otoliths in the inner ear – that is, tiny pieces of calcium carbonate in the vestibular system (Image: University of Basel, Jan Bolten).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

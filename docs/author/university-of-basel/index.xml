@@ -13,11 +13,50 @@
     </image>
     
     <item>
-      <title>News article in the University of Basel webpage about my Small publication</title>
-      <link>/post/getting-started/</link>
+      <title>University of Basel news article about my Small publication</title>
+      <link>/post/unibaselnews/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
-      <description></description>
+      <guid>/post/unibaselnews/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;This is the first news article about my 
+&lt;a href=&#34;https://doi.org/10.1002/smll.202000746&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Small publication&lt;/a&gt; which was published online on 22nd June 2020.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Check out the news article 
+&lt;a href=&#34;https://www.unibas.ch/en/News-Events/News/Uni-Research/Tiny-fish-under-a-giant-camera.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in &lt;strong&gt;English&lt;/strong&gt;&lt;/a&gt; or 
+&lt;a href=&#34;https://www.unibas.ch/de/Aktuell/News/Uni-Research/Winzige-Fische-unter-riesiger-Kamera.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in &lt;strong&gt;German&lt;/strong&gt;&lt;/a&gt; at the webpage of the University of Basel by clicking directly on the blue links.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-using-microtomography-in-phase-contrast-mode-researchers-at-the-university-of-basel-succeeded-in-taking-high-resolution-three-dimensional-images-of-zebrafish-embryos-in-which-the-distribution-of-nanoparticles-red-is-visible-also-in-red-and-easy-to-distinguish-because-of-their-high-density-are-the-lens-of-the-eye-and-the-otoliths-in-the-inner-ear--that-is-tiny-pieces-of-calcium-carbonate-in-the-vestibular-system-image-university-of-basel-jan-bolten&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.unibas.ch/dam/jcr:6401512d-cfa2-44ff-b67a-4e9bbc2a5098/Zebrafisch-ganz_1000x500.jpg&#34; data-caption=&#34;Using microtomography in phase contrast mode, researchers at the University of Basel succeeded in taking high-resolution, three-dimensional images of zebrafish embryos in which the distribution of nanoparticles (red) is visible. Also in red and easy to distinguish because of their high density are the lens of the eye and the otoliths in the inner ear – that is, tiny pieces of calcium carbonate in the vestibular system (Image: University of Basel, Jan Bolten).&#34;&gt;
+
+
+  &lt;img src=&#34;https://www.unibas.ch/dam/jcr:6401512d-cfa2-44ff-b67a-4e9bbc2a5098/Zebrafisch-ganz_1000x500.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Using microtomography in phase contrast mode, researchers at the University of Basel succeeded in taking high-resolution, three-dimensional images of zebrafish embryos in which the distribution of nanoparticles (red) is visible. Also in red and easy to distinguish because of their high density are the lens of the eye and the otoliths in the inner ear – that is, tiny pieces of calcium carbonate in the vestibular system (Image: University of Basel, Jan Bolten).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
     </item>
     
   </channel>

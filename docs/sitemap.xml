@@ -24,52 +24,72 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-06-26T10:45:26+02:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/basel/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-05-19T12:47:48+02:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christian-luttmann/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/laborpraxisnews/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/category/news/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/news/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/phd/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/science/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-06-25T10:35:28+02:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mysciencenews/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/myscience.ch/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/university-of-basel/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/unibaselnews/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -95,16 +115,6 @@
   <url>
     <loc>/tag/source-themes/</loc>
     <lastmod>2020-06-25T10:35:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2020-05-16T01:07:20+02:00</lastmod>
   </url>
   
   <url>
@@ -165,31 +175,6 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2020-05-16T01:07:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2020-05-19T12:47:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/plot/</loc>
-    <lastmod>2020-05-19T12:47:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/r/</loc>
-    <lastmod>2020-05-19T12:47:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/r-markdown/</loc>
-    <lastmod>2020-05-19T12:47:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regression/</loc>
-    <lastmod>2020-05-19T12:47:48+02:00</lastmod>
   </url>
   
   <url>

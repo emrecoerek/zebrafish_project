@@ -43,5 +43,14 @@ height = "calc(100vh - 70px)"
   overlay_img = "headers/news3.jpg"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0  # Darken the image. Value in range 0-1.
   
+[[item]]
+  title = "[SMALL journal cover](https://onlinelibrary.wiley.com/doi/epdf/10.1002/smll.202070170)"
+  content = "My small publication was chosen as the cover of SMALL Volume 16, Issue 31"
+  align = "right"
+
+  #overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/smallcover.jpg"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0  # Darken the image. Value in range 0-1.
+  
 
 +++

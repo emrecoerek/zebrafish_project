@@ -105,5 +105,17 @@
 </description>
     </item>
     
+    <item>
+      <title>Webpage about our zebrafish findings published in SMALL</title>
+      <link>/post/zebrafishwebpage/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/zebrafishwebpage/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;This is our webpage about my 
+&lt;a href=&#34;https://doi.org/10.1002/smll.202000746&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Small publication&lt;/a&gt; which was published online on 22nd June 2020.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Check out our 
+&lt;a href=&#34;http://zebrafish.pharma-te.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;webpage&lt;/a&gt; by clicking directly on the blue link.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

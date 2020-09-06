@@ -20,10 +20,11 @@ interests:
 - Drug Delivery
 - Imaging
 - Cancer Biology
+- Regulatory Toxicology
 organizations:
-- name: ""
-  url: ""
-role: ""
+- name: "Swiss Centre for Applied Human Toxicology"
+  url: "https://www.scaht.org/de/"
+role: "Regulatory Toxicologist"
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,4 +53,4 @@ I graduated from the Julius-Maximilians-University of Wuerzburg in Germany with 
 In July 2015, I graduated with a Master's degree from the University of Basel in Switzerland in "Toxicology". My Master's thesis I accomplished for 10 months at Novartis AG in Basel in Preclinical safety about the renal biomarker Kidney injury molecule-1 (KIM-1). The title of my thesis was “Spatial and temporal patterns of KIM-1 induction in toxic kidney injury in rats”.
 
 In June 2016, after a one year break with travelling, I joined the research group of Prof. Dr. Jörg Huwyler in Pharmaceutical Technology at the University of Basel as a Ph.D. candidate. My research was focused on nanoparticles for drug delivery and imaging/theranostics. At the same time I was also involved in the EU Horizon 2020 project called "NanoREG II" for development and implementation of nanoparticle grouping and Safe-by-design approaches within regulatory frameworks together with the Swiss Centre for Applied Human Toxicology (SCAHT). 
-In May 2020, I finished my Ph.D. (Dr. phil. des.) and in September 2020 I will start working as a regulatory toxicologist at the SCAHT on a very interesting project about "succinate dehydrogenase inhibitors".
+In May 2020, I finished my Ph.D. (Dr. phil. des.) and since September 2020 I am working as a regulatory toxicologist at the Swiss Centre for Applied Human Toxicology [(SCAHT)](https://www.scaht.org/de/) on a project about "succinate dehydrogenase inhibitors (SDHIs)".

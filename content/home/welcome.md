@@ -55,10 +55,10 @@ height = "1000px"
 
 
 
-<sub>Below you can find some research results from my [SMALL paper](https://doi.org/10.1002/smll.202000746).</sub>
+<sub>Below you can find, amongst other things, some research results from my [SMALL paper](https://doi.org/10.1002/smll.202000746).</sub>
 
 
-Further details are on the **[SPECIAL WEBPAGE](http://zebrafish.pharma-te.ch/)** which was created from my PhD supervisor [Prof. Dr. Jörg Huwyler](https://pharma.unibas.ch/de/personen/joerg-huwyler-1475/).
+Further details are on the **[SPECIAL WEBPAGE](http://zebrafish.pharma-te.ch/)** which was created from my Ph.D. supervisor [Prof. Dr. Jörg Huwyler](https://pharma.unibas.ch/de/personen/joerg-huwyler-1475/).
 
 
-<sub>All results, images, and animations were created together with the [Pharmaceutical Technology group](https://pharma.unibas.ch/de/research/research-groups/pharmaceutical-technology-2253/) during my PhD thesis.</sub>
+<sub>All results and images were created together with the [Pharmaceutical Technology group](https://pharma.unibas.ch/de/research/research-groups/pharmaceutical-technology-2253/) during my time as a Ph.D. candidate.</sub>
